@@ -1,0 +1,8 @@
+site_name: Home
+
+theme: lux
+nav:
+  - Visão geral: visao-geral.md
+  - Protótipos:
+    - Protótipo de baixa-fidelidade: prototipo-baixa.md
+    - Protótipo de alta-fidelidade: prototipo-alta.md
