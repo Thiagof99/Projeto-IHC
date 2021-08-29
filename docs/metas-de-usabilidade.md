@@ -21,7 +21,6 @@
 </div><br>
 
 ### Resultados
-<div align="justify">
 
 #### __Facilidade de recordação__
 
@@ -53,7 +52,5 @@ __Meta aplicada ao projeto__: o usuário deve ficar satisfeito com o aplicativo 
 
 __Meta aplicada ao projeto__: o usuário precisa encontrar rapidamente o que ele deseja fazer. Dessa forma, assim que o usuário abrir o aplicativo, poderá visualizar uma home page com um resumo de várias informações relevantes para ele, além disso, haverá uma navbar abaixo que mostrará as telas disponíveis do aplicativo, onde ele poderá acessar cada uma. Além disso, a quantidade de cliques que o usuário deve fazer deve ser o mínimo possível.
 
-</div>
-
-
 ## Referências
+REBELO, Irla. IHC na prática - Usabilidade e suas metas. Disponível em https://irlabr.wordpress.com/apostila-de-ihc/parte-1-ihc-na-pratica/6-usabilidade-e-suas-metas. Acesso em 29/08/2021.
