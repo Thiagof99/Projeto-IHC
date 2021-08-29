@@ -1,38 +1,70 @@
-# <center> TEMPLATE
+# Identidade Visual
+
+## Cores:
+
+### Cores principais
+
+<div style= "display: flex; width: 100%; align-items: center; margin-bottom:10px;">
+
+<div style="background-color: #000; height:50px; width:50px; border-radius: 25px; margin-right: 20px;" ></div>   
+
+<b>Black: #000</b>
+
+</div>
+
+</div>
+
+<div style= "display: flex; width: 100%;  align-items: center; margin-bottom:10px;">
+
+<div style="background-color: #FFF; height:50px; width:50px; border-radius: 25px; margin-right: 20px;" ></div> 
+
+<b>White: #FFF</b>
+
+</div>
+
+Cores que serão usadas como fundo de tela da aplicação. Para o tema dark será usado **black #000** e para o tema claro **white #FFF** 
 
 
-### Histórico de versão<br>
+### Cores secundarias
 
-|Data | Versão | Descrição | Autor(es)|
-| -- | -- | -- | -- |
-| 01.12.2020 | 0.1 | Criação do documento | Lucas Andrade<br>Dafne Moretti|
+As cores irão variar de acordo com o tema escolhido pelo usuario. Podemos listar:
 
-### Participantes
+</div>
 
-* Lucas Andrade
-* Dafne Moretti
+<div style= "display: flex; width: 100%;  align-items: center; margin-bottom:10px;">
 
-<br><br>
+<div style="background-color: #04AA6D; height:50px; width:50px; border-radius: 25px; margin-right: 20px;" ></div> 
+
+<b>White: #04AA6D</b>
+
+</div>
+
+Será usado na navbar
+
+</div>
+
+<div style= "display: flex; width: 100%;  align-items: center; margin-bottom:10px;">
+
+<div style="background-color: #000; height:50px; width:50px; border-radius: 25px; margin-right: 20px;" ></div> 
+
+<div style="background-color: #FFF; height:50px; width:50px; border-radius: 25px; margin-right: 20px;" ></div> 
+
+</div>
+
+Faremos uma alternancia entre as cores **preto** e **branco** como fundo dos botões e nas letras do botões. 
+
+## Tipografia:
+
+Na aplicação utilizaremos a fonte **Montserrat**.
+
+- **Para os titulos:** 22px
+- **Texto dos botões:** 18px
+- **Texto geral:** 16px
 
 
-### Introdução
-<div align="justify"> Falar do que se trata o documento.
+## Plugins:
 
-<br><br>
+No prototipo usaremos alguns plugins.
 
-</div><br>
-
-
-### Metodologia
-<div align="justify"> Explicar como foi feito o doc.
-</div><br>
-
-### Resultados
-<div align="justify">
-
-O documento em si
-
-</div><br>
-
-
-## Referências
+- Color Overlay ([Link]())
+- Icons8 Icons ([Link](https://icons8.github.io/icons8-docs/web-app/))
