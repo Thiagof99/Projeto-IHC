@@ -22,6 +22,7 @@
 </div><br>
 
 ### Protótipo de Baixa Fidelidade
+<div>
 <img src="../docs/imagens/p1.jpg">
 <center> Figura 1 - 1ª folha do protótipo de papel<br><br>
 
@@ -39,8 +40,9 @@
 
 <img src="../docs/imagens/p6.jpg">
 <center> Figura 6 - 6ª folha do protótipo de papel<br><br>
+</div>
 
 
-## Referências
+### Referências
 > Massachussets Institute of Tecnology - MIT. User Interface Design & Implementation: Prototyping.<br> Poderíam acessar clicando <a href="http://web.mit.edu/6.813/www/sp17/classes/08-prototyping/">aqui</a>
 <br>Foi acessado no dia 29 de Agosto de 2021
