@@ -23,22 +23,22 @@
 
 ### Protótipo de Baixa Fidelidade
 <div>
-<img src="../docs/imagens/p1.jpg">
+<img src="../docs/imagens/p1.jpg"><br>
 <center> Figura 1 - 1ª folha do protótipo de papel<br><br>
 
-<img src="../docs/imagens/p2.jpg">
+<img src="../docs/imagens/p2.jpg"><br>
 <center> Figura 2 - 2ª folha do protótipo de papel<br><br>
 
-<img src="../docs/imagens/p3.jpg">
+<img src="../docs/imagens/p3.jpg"><br>
 <center> Figura 3 - 3ª folha do protótipo de papel<br><br>
 
-<img src="../docs/imagens/p4.jpg">
+<img src="../docs/imagens/p4.jpg"><br>
 <center> Figura 4 - 4ª folha do protótipo de papel<br><br>
 
-<img src="../docs/imagens/p5.jpg">
+<img src="../docs/imagens/p5.jpg"><br>
 <center> Figura 5 - 5ª folha do protótipo de papel<br><br>
 
-<img src="../docs/imagens/p6.jpg">
+<img src="../docs/imagens/p6.jpg"><br>
 <center> Figura 6 - 6ª folha do protótipo de papel<br><br>
 </div>
 

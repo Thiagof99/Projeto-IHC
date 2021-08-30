@@ -1,70 +1,93 @@
-# Identidade Visual
+# <center> Identidade Visual
 
-## Cores:
 
-### Cores principais
+### Histórico de versão<br>
 
-<div style= "display: flex; width: 100%; align-items: center; margin-bottom:10px;">
+|Data | Versão | Descrição | Autor(es)|
+| -- | -- | -- | -- |
+| 29.08.2021 | 0.1 | Criação do documento | Lucas Andrade |
+| 29.08.2021 | 0.2 | Modificação na disposição dos elementos | João Pedro Chaves |
 
-<div style="background-color: #000; height:50px; width:50px; border-radius: 25px; margin-right: 20px;" ></div>   
+### Participantes
+
+* Lucas Andrade
+
+<br>
+
+## Cores 
+
+#### Cores principais 
+
+<div align= "justify" style= "display: flex; width: 100%; align-items: center; margin-bottom:10px;">
+
+<div align= "justify" style="background-color: #000; height:50px; width:50px; border-radius: 25px; margin-right: 20px;" ></div>   
 
 <b>Black: #000</b>
 
 </div>
 
-</div>
+<div align= "justify" style= "display: flex; width: 100%;  align-items: center; margin-bottom:10px;">
 
-<div style= "display: flex; width: 100%;  align-items: center; margin-bottom:10px;">
-
-<div style="background-color: #FFF; height:50px; width:50px; border-radius: 25px; margin-right: 20px;" ></div> 
+<div align= "justify" style="background-color: #FFF; height:50px; width:50px; border-radius: 25px; margin-right: 20px; border-color: #000; border: 1px solid black" ></div> 
 
 <b>White: #FFF</b>
 
 </div>
 
-Cores que serão usadas como fundo de tela da aplicação. Para o tema dark será usado **black #000** e para o tema claro **white #FFF** 
+<div align="justify"> 
+Cores que serão usadas como fundo de tela da aplicação. Para o tema dark será usado <b>black #000</b> e para o tema claro <b>white #FFF</b> 
+</div
 
+</div><br>
 
 ### Cores secundarias
-
+<div align="justify"> 
 As cores irão variar de acordo com o tema escolhido pelo usuario. Podemos listar:
-
-</div>
+</div><br>
 
 <div style= "display: flex; width: 100%;  align-items: center; margin-bottom:10px;">
 
-<div style="background-color: #04AA6D; height:50px; width:50px; border-radius: 25px; margin-right: 20px;" ></div> 
+<div style="background-color: #04AA6D; height:50px; width:50px; border-radius: 25px; margin-right: 20px;border-color: #000; border: 1px solid black" ></div> 
 
-<b>White: #04AA6D</b>
+<b>Green Cyan: #04AA6D</b>
 
-</div>
+</div><br>
 
+<div align="justify">
 Será usado na navbar
+</div><br>
 
-</div>
 
 <div style= "display: flex; width: 100%;  align-items: center; margin-bottom:10px;">
 
 <div style="background-color: #000; height:50px; width:50px; border-radius: 25px; margin-right: 20px;" ></div> 
 
-<div style="background-color: #FFF; height:50px; width:50px; border-radius: 25px; margin-right: 20px;" ></div> 
+<div style="background-color: #FFF; height:50px; width:50px; border-radius: 25px; margin-right: 20px;border-color: #000; border: 1px solid black" ></div> 
 
 </div>
 
-Faremos uma alternancia entre as cores **preto** e **branco** como fundo dos botões e nas letras do botões. 
+<div align="justify">
+Faremos uma alternancia entre as cores <b>preto</b> e <b>branco</b> como fundo dos botões e nas letras do botões. 
+</div><br>
 
 ## Tipografia:
 
-Na aplicação utilizaremos a fonte **Montserrat**.
+<div align="justify">
 
-- **Para os titulos:** 22px
-- **Texto dos botões:** 18px
-- **Texto geral:** 16px
+Na aplicação utilizaremos a fonte <b>Montserrat</b>.<br>
 
+- <b>Para os titulos:</b> 22px<br>
+- <b>Texto dos botões:</b> 18px<br>
+- <b>Texto geral:</b> 16px<br>
+</div><br>
 
 ## Plugins:
 
-No prototipo usaremos alguns plugins.
+<div align="justify">
+No prototipo usaremos alguns plugins do figma.<br>
 
-- Color Overlay ([Link]())
-- Icons8 Icons ([Link](https://icons8.github.io/icons8-docs/web-app/))
+- Color Overlay <a href="https://www.figma.com/community/plugin/786223450940846289/Color-Overlay">[Link]</a><br>
+- Icons8 Icons <a href="https://icons8.github.io/icons8-docs/web-app/">[Link]</a><br>
+
+
+</div>
