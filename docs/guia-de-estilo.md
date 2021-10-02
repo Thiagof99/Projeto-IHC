@@ -7,10 +7,12 @@
 | -- | -- | -- | -- |
 | 29.08.2021 | 0.1 | Criação do documento | Lucas Andrade |
 | 29.08.2021 | 0.2 | Modificação na disposição dos elementos | João Pedro Chaves |
+| 04.09.2021 | 0.3 | Atualização do documento | Dafne Moretti Moreira |
 
 ### Participantes
 
 * Lucas Andrade
+* Dafne Moretti
 
 <br>
 
@@ -20,25 +22,45 @@
 
 <div align= "justify" style= "display: flex; width: 100%; align-items: center; margin-bottom:10px;">
 
-<div align= "justify" style="background-color: #000; height:50px; width:50px; border-radius: 25px; margin-right: 20px;" ></div>   
+<div align= "justify" style="background-color: #B2FCFF; height:50px; width:50px; border-radius: 25px; margin-right: 20px;" ></div>   
 
-<b>Black: #000</b>
-
-</div>
-
-<div align= "justify" style= "display: flex; width: 100%;  align-items: center; margin-bottom:10px;">
-
-<div align= "justify" style="background-color: #FFF; height:50px; width:50px; border-radius: 25px; margin-right: 20px; border-color: #000; border: 1px solid black" ></div> 
-
-<b>White: #FFF</b>
+<b>Azul ciano: #B2FCFF</b>
 
 </div>
 
 <div align="justify"> 
+Cor utilizada para antes de entrar no aplicativo e para reforçar o fundo de algumas informações.
+</div><br>
+
+<div align= "justify" style= "display: flex; width: 100%;  align-items: center; margin-bottom:10px;">
+
+<div align= "justify" style="background-color: #3E64FF; height:50px; width:50px; border-radius: 25px; margin-right: 20px;" ></div>   
+
+<b>Azul claro médio: #3E64FF</b>
+
+</div>
+
+<div align="justify"> 
+Cor que será utilizada nos headers, navbars, em alguns títulos e botões.
+</div><br>
+
+<div align= "justify" style= "display: flex; width: 100%;  align-items: center; margin-bottom:10px;">
+
+<div align= "justify" style="background-color: #ECFCFF; height:50px; width:50px; border-radius: 25px; margin-right: 20px;" ></div>   
+
+<b>Azul claro ciano: #ECFCFF</b>
+
+</div>
+
+<div align="justify"> 
+Cor do background do aplicativo.
+</div><br>
+
+<!-- <div align="justify"> 
 Cores que serão usadas como fundo de tela da aplicação. Para o tema dark será usado <b>black #000</b> e para o tema claro <b>white #FFF</b> 
 </div
 
-</div><br>
+</div><br> -->
 
 ### Cores secundarias
 <div align="justify"> 
@@ -47,16 +69,21 @@ As cores irão variar de acordo com o tema escolhido pelo usuario. Podemos lista
 
 <div style= "display: flex; width: 100%;  align-items: center; margin-bottom:10px;">
 
-<div style="background-color: #04AA6D; height:50px; width:50px; border-radius: 25px; margin-right: 20px;border-color: #000; border: 1px solid black" ></div> 
+<div align= "justify" style="background-color: #3DB2FF; height:50px; width:50px; border-radius: 25px; margin-right: 20px;" ></div> 
 
-<b>Green Cyan: #04AA6D</b>
+<b>Azul claro médio ciano: #3DB2FF</b>
 
 </div><br>
+
+<div align= "justify" style="background-color: #FF2442; height:50px; width:50px; border-radius: 25px; margin-right: 20px;" ></div> 
+
+<b>Rosa avermelhado: #FF2442</b>
 
 <div align="justify">
-Será usado na navbar
+Será usado nos botões de deixar de seguir e cancelar, para representar ações de desistência.
 </div><br>
 
+</div><br>
 
 <div style= "display: flex; width: 100%;  align-items: center; margin-bottom:10px;">
 
@@ -74,11 +101,22 @@ Faremos uma alternancia entre as cores <b>preto</b> e <b>branco</b> como fundo d
 
 <div align="justify">
 
-Na aplicação utilizaremos a fonte <b>Montserrat</b>.<br>
+Na aplicação utilizaremos a fonte <b>Poppins</b>.<br>
 
-- <b>Para os titulos:</b> 22px<br>
-- <b>Texto dos botões:</b> 18px<br>
-- <b>Texto geral:</b> 16px<br>
+- <b>Para os titulos:</b> 40px<br>
+- <b>Texto dos botões:</b> 15px<br>
+- <b>Texto geral:</b> 14px<br>
+</div><br>
+
+## Outros estilos
+
+<div align="justify">
+
+Definiu-se algumas bordas que serão utilizadas.<br>
+
+- <b>Border radius em fundos de partes da aplicação</b> 18px<br>
+- <b>Botões que apresentam os esportes, países; botões para seguir, deixar de seguir e botões para confirmar e cancelar ações</b> 289px<br>
+- <b>Borda das modais</b> 39px<br>
 </div><br>
 
 ## Plugins:
