@@ -1,0 +1,13 @@
+site_name: Home
+
+theme: lux
+nav:
+  - Visão geral: index.md
+  - Protótipos:
+    - Protótipo de baixa-fidelidade: prototipo-baixa.md
+  - Guia de Estilo: guia-de-estilo.md
+  - Personas: personas.md
+  - Metas de Usabilidade: metas-de-usabilidade.md
+  - Rich Picture: rich-picture.md
+  - Backlog: backlog.md
+  - Histórias de Usuário: historia-de-usuario.md
